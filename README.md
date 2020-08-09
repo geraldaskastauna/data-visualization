@@ -8,7 +8,7 @@ http://www.geraldaskastauna.com
 A data visualization website that was made using:\ 
 1. Forex (https://fixer.io/) historical data API and student unique synthetic data provided by the lecturer.
 2. Twitter Developers API.
-3. Amazon Web Service (AWS) tools (DynamoDB, S3, Lambda, SageMaker, CloudWatch, API Gateway).\
+3. Amazon Web Service (AWS) tools (DynamoDB, S3, Lambda, SageMaker, CloudWatch, API Gateway).
 
 A website that provides US Dollar(USD), Canadian Dollar(CAD), Japanese Yen(JPY), Pound Sterling(GBP) and Australian Dollar(AUD) historic data visualization\
 **from 2018-01-01 till around 2019-05**.\
@@ -26,4 +26,4 @@ The project was done with AWS Educational Account and everything is hosted and d
 ## Contact info
 Geraldas Kastauna\
 admin@geraldaskastauna.com\
-geraldaskastauna@gmail.com\
+geraldaskastauna@gmail.com
